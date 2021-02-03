@@ -1,0 +1,1 @@
+Please ask the supervisor to get rest_api_transaction settings before you run manage server.
