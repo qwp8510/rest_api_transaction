@@ -6,4 +6,4 @@ class ReceiversSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Receivers
-        fields = ('id', 'name', 'targets', 'receiveFrequency')
+        fields = ('id', 'name', 'targets', 'receiveFrequency', 'lineToken')
